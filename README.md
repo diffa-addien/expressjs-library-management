@@ -61,7 +61,7 @@ created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-### Running Application
+## Running Application
 `npm start` or `node app.js`
 
 ## API Endpoints
