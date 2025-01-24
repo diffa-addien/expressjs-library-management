@@ -61,6 +61,10 @@ created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+##### or restore with the sql provided
+library_schema.sql
+library_sample_data.sql
+
 ## Running Application
 `npm start` or `node app.js`
 
